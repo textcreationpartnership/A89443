@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Malignants remember Rochell: or A warning to the Protestants of England.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89443</idno><idno type="EEBO-CITATION">99860919</idno>
+  <idno type="VID">113046</idno>
+  <idno type="EEBO-PROQUEST">2240884133</idno>
+  
+            <idno type="STC">Wing M325</idno>
+            <idno type="STC">Thomason E288_40</idno>
+            <idno type="STC">ESTC R200115</idno>
+            <idno type="PROQUEST">99860919</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99860919e"/>
+            <note>(EEBO-TCP ; phase 2, no. A89443)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113046)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 47:E288[40])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Malignants remember Rochell: or A warning to the Protestants of England.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.M. and are to be sold by M.S.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 20th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">La Rochelle (France) --  History --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Foreign relations --  1625-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113046:1"/>
+            <pb facs="tcp:113046:1"/>
+            <p>
+               <hi>MALIGNANTS</hi> Remember Rochell: OR A Warning to the Protestants OF ENGLAND.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON</hi> Printed by <hi>J. M.</hi> and are to be sold by <hi>M. S.</hi>
+               <add>June 20<seg rend="sup">th</seg>
+               </add> 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:113046:2"/>
+            <pb n="3" facs="tcp:113046:2"/>
+            <head>Remember Rochel.</head>
+            <p>NOt long after our Kings Match with France, there was a designe in that Realme to extirpate the Protestants, and surprize all their fortified Townes in that Kingdome, whereof Rochell was the princi<g ref="char:EOLhyphen"/>pall; which being a maritaine Towne, fur<g ref="char:EOLhyphen"/>nished with a good Fleet of Ships, able to make good their Harbour, and furnish themselves with provisions and supplies from all their Pro<g ref="char:EOLhyphen"/>testant friends, maugre all the Sea-forces of the French King; thereupon the French Cardinall Richelieu and his confederates taking the ad<g ref="char:EOLhyphen"/>vantage of their new interest in the King of England, by reason of this marriage; import<g ref="char:EOLhyphen"/>uned him to lend his Brother of France the Vaunt-guard, one of the Vessels of his royall Navy, and seven Merchant-men of warre, to be imployed in his service by sea: which the King condescending to, sent the said Ships un<g ref="char:EOLhyphen"/>der the command of Captaine Pennington into France, to be imployed as the French King and
+<pb n="4" facs="tcp:113046:3"/>his Counsell should prescribe. Who designing them for service against Rochell, to surprize their Ships, blockt up their Haven, and intercept their trade and reliefe, contrary to their expect<g ref="char:EOLhyphen"/>ation; the Captaines, Masters and Mariners of the Ships were so much discontented, that they were designed against the Rochelers, who were not onely their friends, but the chiefe pro<g ref="char:EOLhyphen"/>fessors and maintainers of the Protestant Religi<g ref="char:EOLhyphen"/>on in those parts, and that they should be made the instruments of their ruine, and draw the guilt of their innocent Protestant blood upon their soules, that they all unanimously resolved, they would rather dye, sinke, or be hanged up at the Masts of their Ships, then stirre one jot, or weigh anchor for such an unchristian detest<g ref="char:EOLhyphen"/>able imployment. Captaine Pennington their Admirall, and the French used all the rhetorick and perswasions they could to alter this their heroick and most Christian resolution but they continued inflexible, and would neither by al<g ref="char:EOLhyphen"/>lurements, rewards, nor threats be drawne to such an unworthy action, resolving rather to sink then stirre therein. Whereupon Captaine Pennington acquainted his Majesty and the Duke of Buckingham by Letters with this their peremptory resolution, and desires their di<g ref="char:EOLhyphen"/>rection
+<pb n="5" facs="tcp:113046:3"/>herein? the King (I know not by whose ill advice) returns him this answer both by word of mouth and this ensuing Warrant.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="warrant">
+                        <opener>
+                           <signed>CHARLES. R.</signed>
+                           <lb/>
+                           <salute>Pennington,</salute>
+                        </opener>
+                        <p>THese are to charge &amp; require you uppon sight hereof; that without all difficulty and delay, you put our former Commande<g ref="char:EOLhyphen"/>ment in execution for the consigning of the ship under your charge, cal'd the <hi>Vaunt<g ref="char:EOLhyphen"/>guard,</hi> into the hands of the Marquesse <hi>de Effort,</hi> with all her Equipage, Artille<g ref="char:EOLhyphen"/>ry, and Ammunition, assuring the Officers of the said Ship whom it may concern, that we will provide for their indemnity; and We further charge and command you that you also require the seven merchants ships in Our Name, to put themselves into the service of Our dear Brother the French King, according to the promise made unto him: and in case of back-wardnesse or re<g ref="char:EOLhyphen"/>fusall, We command you to use all forcible means in your power to compell them ther<g ref="char:EOLhyphen"/>to, even to their sinking; and in these seve<g ref="char:EOLhyphen"/>rall
+<pb n="6" facs="tcp:113046:4"/>charges see you fail not, as you will an<g ref="char:EOLhyphen"/>swer the contrary at your utmost perill; and this shall be your sufficient Warrant.</p>
+                        <closer>
+                           <dateline>Given at Our Court at <hi>Richmond,</hi>
+                              <date>the 28. of <hi>July</hi> 1625.</date>
+                           </dateline>
+                        </closer>
+                        <trailer>To Our Trusty and Wel<g ref="char:EOLhyphen"/>beloved, <hi>John Penning<g ref="char:EOLhyphen"/>ton,</hi> Captain of Our Ship called the <hi>Vaunt-guard.</hi>
+                        </trailer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>UPon receit of this Warrant Captain Pen<g ref="char:EOLhyphen"/>nington (as we have been certainly infor<g ref="char:EOLhyphen"/>med from very credible persons of note, privy to the transactions of this businesse) threat<g ref="char:EOLhyphen"/>ned to shoot and sink the Ships, and hang up the Mariners that refused to yeeld obedience, and serve against Rochell; but they all unani<g ref="char:EOLhyphen"/>mously declined the service, bidding him doe his pleasure with them; for goe against the Rochelers they would never; but if they were commanded upon any other service not against the Protestants, they would obey: Whereupon those who refused to serve in this expedition, were commanded to quit the Ships and returne into England; which all did but two, (who soone after came to desperate ends, the one be<g ref="char:EOLhyphen"/>ing blowne up with Gun-powder, the other drowned or slaine.) Upon this, the English Ships were according to this direction, delive<g ref="char:EOLhyphen"/>red to the French, manned with French-men &amp;
+<pb n="7" facs="tcp:113046:4"/>other Forreigners, and joyning with some more Vessels of the French King, destroyed the Ro<g ref="char:EOLhyphen"/>chell Fleet, blocked up their Haven, &amp; ruined that famous Protestant City, with most of the Protestants in it; which after a long and sharp siege by sea and land, was through famine sur<g ref="char:EOLhyphen"/>rendred into the Papist hands; the losse where<g ref="char:EOLhyphen"/>of was generally, if not justly imputed to our ill Counsellers; who after they had been instru<g ref="char:EOLhyphen"/>ments to destroy their Ships, the principall meanes of their safety, support, and preserva<g ref="char:EOLhyphen"/>tion, by an unfortunate voyage of the Duke of Buckingham to the isle of Ree (to what end but to ruine Rochell and the Protestant party in France, or to revenge the disappointment of his lust, as many muttered, is yet unknowne to the world) exhausted their Ammunition, Victuals, provisions, men, to supply our necessi<g ref="char:EOLhyphen"/>ties at Ree, and after our departure thence, left our sicke and maimed souldiers there to help devour the residue of their empty stores, and then suffe<g ref="char:EOLhyphen"/>red them to be blocked up at Sea: when we had thus engaged them on our behalf, neglecting to send them timely supplies of Victuall, Amuniti<g ref="char:EOLhyphen"/>on, shipping, men (which was strangely delayed from time to time contrary to promise) and when
+<pb n="8" facs="tcp:113046:5"/>our ships went at last, they gave over the designe of re<g ref="char:EOLhyphen"/>lieving it as desperate, before ever they assayed whether it was feasible (as Master <hi>Henry</hi> now Lord <hi>Iermin,</hi> and some others in that unfortunate expedition informed me) &amp; then making onely a <hi>Bravado</hi> towards the Barracado, as if they meant to force it with their fireships, and en<g ref="char:EOLhyphen"/>gines made with great stones (brought to <hi>London</hi> to re<g ref="char:EOLhyphen"/>paire <hi>Pauls</hi> &amp; so unlikely to do any good service for <hi>Ro<g ref="char:EOLhyphen"/>chell</hi>) they discharged their Ordnance very valiantly a<g ref="char:EOLhyphen"/>bove a league or two from the Workes they were to force, and with-out adventuring neerer or attempting to force the Barre, returned prefently with infinite dis<g ref="char:EOLhyphen"/>honour for <hi>England,</hi> leaving all their fireships and En<g ref="char:EOLhyphen"/>gines in them to the French in a most unwarlike man<g ref="char:EOLhyphen"/>ner: but in their returne homewards many of these Ships were wrecked, drowned in a tempest, who would not ad<g ref="char:EOLhyphen"/>venture sinking in a fight, and the whole Navy shattered. Soone after which, poor <hi>Rochell</hi> (thus deserted and be<g ref="char:EOLhyphen"/>traid, was surrendred into the French Kings &amp; Cardi<g ref="char:EOLhyphen"/>nals possession, and all the Protestant Townes in <hi>France</hi> surprized, yeelded, pillage,, dismantled; so as they have since no Town or Fort of strength to retire unto, to preserve themselves from the force or massacres of their bloody Adversaries, to whose mercilesse cruelties they are now wholly exposed upon all occasions by our meanes. I pray God this treachery against them, and the blood of those many thousand Protestants then shed in <hi>France</hi> by our occasion, be not one principall cause why God (by way of retaliation) hath permitted the Papists in <hi>Ireland</hi> and <hi>England</hi> to shed so much Prote<g ref="char:EOLhyphen"/>stant blood in these Realms as they have done of late, for our refusing or neglecting to avenge their blood upon those romanized Conspirators, who were the occasion of this their irrepairable losse and bloodshed.</p>
+         </div>
+         <trailer>FJNJS.</trailer>
+      </body>
+   </text>
+</TEI>
